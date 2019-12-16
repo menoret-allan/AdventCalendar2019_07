@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="ComputerPart2.fs" />
+    <Compile Include="AmpliPart2.fs" />
     <Compile Include="Computer.fs" />
     <Compile Include="Ampli.fs" />
   </ItemGroup>
